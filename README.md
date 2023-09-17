@@ -1,8 +1,13 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F78%2F502%2FHD-wallpaper-premium-business-hand-worker-holding-business-analytics-big-data-analysis-technology-future-concept.jpg&tbnid=9kBbZvnsqLz9dM&vet=12ahUKEwiyzseZ67GBAxXWmmMGHSO8DGgQMygHegUIARCDAQ..i&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-ehwkv&docid=e-T29Rimu68vGM&w=800&h=364&q=data%20analysis%20for%20background&ved=2ahUKEwiyzseZ67GBAxXWmmMGHSO8DGgQMygHegUIARCDAQ)
+   ![masterhead](https://github.com/pallavi-2424/pallavi-2424/assets/144513254/55ce9814-bb43-4003-a2c4-14507ba62cb7)
+
+
 
 <h1 align="center">Hi 👋, I'm PALLAVI M</h1>
 <h3 align="center">I'm a dedicated Data Enthusiast with a passion for transforming data into valuable insights. Whether it's exploring datasets, performing statistical analysis, or creating data visualizations, I thrive on making data-driven decisions. My journey in the world of data has been an exciting one, and I'm always eager to learn and apply new techniques to extract meaningful information from data.</h3>
-<image align="right" alt="coding width ="400" src="https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Ffemale-developer-working-on-data-analytics-8636701-6863572.gif&tbnid=cNn1lEneL-LicM&vet=12ahUKEwjQhdmIg6yBAxUdyKACHXOeA2kQMygDegQIARBd..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flotties%2Fdata-analytics&docid=Ec4zhgkQnsm0kM&w=569&h=424&q=animated%20girl%20data%20analyst%20gif&ved=2ahUKEwjQhdmIg6yBAxUdyKACHXOeA2kQMygDegQIARBd
+
+
+
+ ![image](https://github.com/pallavi-2424/pallavi-2424/assets/144513254/ff4895d1-28a5-4d30-9d45-abf1eff00e6b)
 
 
 
@@ -23,4 +28,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
->
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavi-2424&show_icons=true&locale=en&layout=compact" alt="pallavi-2424" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavi-2424&show_icons=true&locale=en" alt="pallavi-2424" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-2424&" alt="pallavi-2424" /></p>
